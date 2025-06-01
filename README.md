@@ -13,8 +13,8 @@ A user-friendly web app for trimming or cutting video files and synchronizing th
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone git@github.com:GoshtasbSh/video-transcript-editor.git
+   cd video-transcript-editor
    ```
 
 2. **Install dependencies:**
